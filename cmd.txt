@@ -8,4 +8,4 @@
 7.git branch
 8.git checkout
 9.git merge
-10.git push
+10.git commit
