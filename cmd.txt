@@ -1,0 +1,10 @@
+ 1.git init
+ 2.git clone
+ 3.git config user.name
+ 4.git config user.email
+ 5.git log
+ 6.git add .
+ 7.git commit -m "cmnts" file name
+ 8.git pull
+ 9.git merge
+ 10.git checkout -b <branch_name>
