@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  1.git init
  2.git clone
  3.git config user.name
@@ -8,3 +9,15 @@
  8.git pull
  9.git merge
  10.git checkout -b <branch_name>
+=======
+1.git init
+2.git add
+3.git log
+4.git status
+5.git revert
+6.git clone
+7.git branch
+8.git checkout
+9.git merge
+10.git commit
+>>>>>>> samlee
