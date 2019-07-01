@@ -1,4 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+git config
+git init
+git clone
+>>>>>>> Ankana
 git add
 git commit
 git diff
@@ -6,6 +12,7 @@ git reset
 git status
 git rm
 git log
+<<<<<<< HEAD
 git show
 git tag
 git branch
@@ -27,3 +34,5 @@ My 10 git commands are:
 
 
 >>>>>>> Hemant
+=======
+>>>>>>> Ankana
