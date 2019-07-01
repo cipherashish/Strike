@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 git config
 git init
@@ -61,3 +62,36 @@ My 10 git commands are:
 10.git commit
 >>>>>>> samlee
 >>>>>>> Ashish
+=======
+git config
+git init
+git clone
+git add
+git commit
+git diff
+=======
+>>>>>>> Neha
+git reset
+git status
+git rm
+=======
+>>>>>>> Neha
+git log
+<<<<<<< HEAD
+
+=======
+git show
+git tag
+git branch
+git checkout
+git merge
+git remote
+<<<<<<< HEAD
+>>>>>>> Neha
+=======
+git push
+git pull
+git stash
+new file
+>>>>>>> Neha
+>>>>>>> Neha
