@@ -1,0 +1,97 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+git config
+git init
+git clone
+>>>>>>> Ankana
+git add
+git commit
+git diff
+git reset
+git status
+git rm
+git log
+<<<<<<< HEAD
+git show
+git tag
+git branch
+=======
+My 10 git commands are:
+
+1.  git config
+2.  git init
+3.  git clone
+4.  git status
+5.  git add
+6.  git push
+7.  git pull
+8.  git merge
+9.  git branch
+10. git fetch
+
+
+
+
+>>>>>>> Hemant
+=======
+>>>>>>> Ankana
+=======
+ 1.git init
+ 2.git clone
+ 3.git config user.name
+ 4.git config user.email
+ 5.git log
+ 6.git add .
+ 7.git commit -m "cmnts" file name
+ 8.git pull
+ 9.git merge
+ 10.git checkout -b <branch_name>
+=======
+1.git init
+2.git add
+3.git log
+4.git status
+5.git revert
+6.git clone
+7.git branch
+8.git checkout
+9.git merge
+10.git commit
+>>>>>>> samlee
+>>>>>>> Ashish
+=======
+git config
+git init
+git clone
+git add
+git commit
+git diff
+=======
+>>>>>>> Neha
+git reset
+git status
+git rm
+=======
+>>>>>>> Neha
+git log
+<<<<<<< HEAD
+
+=======
+git show
+git tag
+git branch
+git checkout
+git merge
+git remote
+<<<<<<< HEAD
+>>>>>>> Neha
+=======
+git push
+git pull
+git stash
+new file
+>>>>>>> Neha
+>>>>>>> Subhashanket
